@@ -1,6 +1,6 @@
 {
   "name": "§6§lCommon Crate",
-  "identifier": "common.crate",
+  "identifier": "common",
   "content": [
     {"rouletteMessage":"{LIGHT_PURPLE}Money Pouch{DARK_GRAY}: {GRAY}Tier 1", "commands":["moneypouch {player} 1"], "message":"{GRAY}You won a {LIGHT_PURPLE}Money Pouch{DARK_GRAY}: {GRAY}Tier 1"},
 	{"rouletteMessage":"{ORANGE}Common Key {DARK_GRAY}({GRAY}x3{DARK_GRAY})", "commands":["crate give {player} common.crate 3"], "message":"{GRAY}You won {ORANGE}Common Key {DARK_GRAY}({GRAY}x3{DARK_GRAY})"},
